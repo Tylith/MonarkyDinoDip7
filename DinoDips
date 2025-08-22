@@ -28,7 +28,7 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Oviraptor/Oviraptor_Character_BP.Oviraptor_Character_BP_C",
+						"dino": "Blueprint'/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
